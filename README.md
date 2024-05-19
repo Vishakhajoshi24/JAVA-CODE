@@ -1,3 +1,2 @@
 # JAVA-CODE
-This is a console based java code to simplify the process of managing employee information within an organization. With a user-friendly interface built using JavaFX, users can effortlessly input and manage employee details.Users can input and manage employee details directly from the command line 
-Users can input and manage employee details directly from the command line
+This repository contains a Java program demonstrating the creation of threads and the usage of various thread methods. The program includes two types of thread implementations: one by extending the Thread class and another by implementing the Runnable interface.
