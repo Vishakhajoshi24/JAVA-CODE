@@ -1,2 +1,3 @@
 # JAVA-CODE
 This is a console based java code to simplify the process of managing employee information within an organization. With a user-friendly interface built using JavaFX, users can effortlessly input and manage employee details.Users can input and manage employee details directly from the command line 
+Users can input and manage employee details directly from the command line
